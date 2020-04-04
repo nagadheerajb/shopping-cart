@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.shopping.srv;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.shashi.service.impl.OrderServiceImpl;
+import com.shopping.service.impl.OrderServiceImpl;
 
 /**
  * Servlet implementation class OrderServlet

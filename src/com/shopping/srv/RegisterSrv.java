@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.shopping.srv;
 
 import java.io.IOException;
 
@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shashi.beans.UserBean;
-import com.shashi.service.impl.UserServiceImpl;
+import com.shopping.beans.UserBean;
+import com.shopping.service.impl.UserServiceImpl;
 
 /**
  * Servlet implementation class RegisterSrv

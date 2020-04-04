@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.shopping.srv;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shashi.service.impl.ProductServiceImpl;
+import com.shopping.service.impl.ProductServiceImpl;
 
 @WebServlet("/ShowImage")
 public class ShowImage extends HttpServlet {

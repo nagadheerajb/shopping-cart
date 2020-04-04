@@ -1,4 +1,4 @@
-package com.shashi.utility;
+package com.shopping.utility;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

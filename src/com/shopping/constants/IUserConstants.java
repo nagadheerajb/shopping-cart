@@ -1,4 +1,4 @@
-package com.shashi.constants;
+package com.shopping.constants;
 
 public interface IUserConstants {
 

@@ -1,4 +1,4 @@
-package com.shashi.utility;
+package com.shopping.utility;
 
 import java.util.Properties;
 import java.util.ResourceBundle;
@@ -59,7 +59,7 @@ public class JavaMailUtil {
 
 			message.setFrom(new InternetAddress(myAccountEmail));
 			message.setRecipient(Message.RecipientType.TO, new InternetAddress(recipientEmail));
-			message.setSubject("Welcome to Ellison Electronics");
+			message.setSubject("Welcome to XXXXX Electronics");
 			message.setText("Hey! " + recipientEmail + ", Thanks  for Signing Up with us!");
 			return message;
 

@@ -1,10 +1,10 @@
-package com.shashi.beans;
+package com.shopping.beans;
 
 import java.io.Serializable;
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 
-import com.shashi.utility.IDUtil;
+import com.shopping.utility.IDUtil;
 
 @SuppressWarnings("serial")
 public class TransactionBean implements Serializable {

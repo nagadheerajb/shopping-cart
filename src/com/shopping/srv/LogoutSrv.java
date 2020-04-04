@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.shopping.srv;
 
 import java.io.IOException;
 
